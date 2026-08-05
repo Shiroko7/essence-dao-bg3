@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="302"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <!-- The essence pool.
+
+                     ReplenishType "Rest" matches SorceryPoint / Rage: the pool refills on a
+                     long rest. MaxLevel 0 means it is a flat pool rather than a levelled one
+                     like SpellSlot.
+
+                     IsSpellResource is deliberately false. Setting it true makes the game treat
+                     this as a casting resource and surface it in the spell-slot UI, which would
+                     imply Essence can be spent on ordinary spells. It cannot - that is the whole
+                     point of the mod not replacing magic.
+
+                     Techniques charge against this via UseCosts "EssencePoint:N", and learned
+                     passives permanently bind part of it with a negative ActionResource boost. -->
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h2f9cd1b1gb5adg56d4g9a50g9f54e749a876" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9f2c268egd125g55d9g892bg7d3cf18d1067" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="EssencePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="4ca95621-2ef4-4e7c-8f09-8e5fb028cdff"/>
+                </node>
+
+                <!-- The learning budget, kept separate from the usable pool
+                     because the source system tracks them separately:
+                     calculateTotalPointsSpent() counts everything you know,
+                     while calculateEffectiveMaxPoints() only subtracts passives.
+
+                     Its maximum is already reduced by every technique you have
+                     learned, so replenishing on rest returns exactly your
+                     unspent budget and never lets you re-learn.
+
+                     Hidden from the resource panel - it is a character-sheet
+                     number, not something you manage in combat. -->
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h56c05b41g6e9ag5c87ga0f0ge0859d87d92d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8707a3c9g554eg5be3g8a5eg7496437dc344" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="EssenceAttunement"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="9f2e1c84-6b73-4a15-9d2c-3e8a7b514206"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

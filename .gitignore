@@ -1,0 +1,13 @@
+# Build output. The packed mod ships as a GitHub Release, not in git —
+# a binary that changes every build is the worst possible thing to version.
+build/*.pak
+build/_recovered/
+
+# LSLib (Norbyte) — third-party .NET tooling used to pack the .pak.
+# Not ours to redistribute, and 15 MB of DLLs besides. See README for where
+# to download it and where to unzip it.
+build/lslib/
+
+__pycache__/
+*.pyc
+.DS_Store

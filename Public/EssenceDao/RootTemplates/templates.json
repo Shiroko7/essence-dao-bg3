@@ -1,0 +1,17 @@
+{
+ "OBJ_EssenceDao_AwakeningBalm": {
+  "uuid": "14b24669-4525-588f-ad4f-4d6323b9fca7",
+  "status": "ESSDAO_CULTIVATOR"
+ },
+ "OBJ_EssenceDao_FoundationPill": {
+  "uuid": "efb8dd4c-5809-54a3-9c62-6084fff3defa",
+  "status": "ESSDAO_FOUNDATION_TAKEN"
+ },
+ "OBJ_EssenceDao_GoldenCoreElixir": {
+  "uuid": "4a9628f1-fe7b-5419-a140-e093575ba500",
+  "status": "ESSDAO_GOLDENCORE_TAKEN"
+ },
+ "OBJ_EssenceDao_Tome": {
+  "uuid": "03e456df-f63d-5210-8272-68d75b32729b"
+ }
+}

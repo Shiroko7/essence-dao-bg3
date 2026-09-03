@@ -1,0 +1,3213 @@
+[
+ {
+  "essence": "acid",
+  "name": "Acid Splash",
+  "id": "acid_cantrip_acid_splash",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#acid%20splash_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_AcidSplash"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Primal Savagery",
+  "id": "acid_cantrip_primal_savagery",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#primal%20savagery_xge\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Absorb Elements",
+  "id": "acid_1st_level_absorb_elements",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#absorb%20elements_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Chromatic Orb",
+  "id": "acid_1st_level_chromatic_orb",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#chromatic%20orb_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_ChromaticOrb"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Chaos Bolt",
+  "id": "acid_1st_level_chaos_bolt",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#chaos%20bolt_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Melf's Acid Arrow",
+  "id": "acid_2nd_level_melfs_acid_arrow",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#melf's%20acid%20arrow_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_AcidArrow"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Dragon's Breath",
+  "id": "acid_2nd_level_dragons_breath",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#dragon's%20breath_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Elemental Weapon",
+  "id": "acid_3rd_level_elemental_weapon",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#elemental%20weapon_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ElementalWeapon"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Glyph of Warding",
+  "id": "acid_3rd_level_glyph_of_warding",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#glyph%20of%20warding_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_GlyphOfWarding"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Hunger of Hadar",
+  "id": "acid_3rd_level_hunger_of_hadar",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#hunger%20of%20hadar_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_HungerOfHadar"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Vitriolic Sphere",
+  "id": "acid_4th_level_vitriolic_sphere",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#vitriolic%20sphere_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Elemental Bane",
+  "id": "acid_4th_level_elemental_bane",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#elemental%20bane_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Wall of Force",
+  "id": "acid_5th_level_wall_of_force",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20force_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Synaptic Static",
+  "id": "acid_5th_level_synaptic_static",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#synaptic%20static_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Disintegrate",
+  "id": "acid_6th_level_disintegrate",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#disintegrate_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_Disintegrate"
+  ]
+ },
+ {
+  "essence": "acid",
+  "name": "Prismatic Spray",
+  "id": "acid_7th_level_prismatic_spray",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#prismatic%20spray_phb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Antimagic Field",
+  "id": "acid_8th_level_antimagic_field",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#prismatic%20spray_phb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Prismatic Wall",
+  "id": "acid_9th_level_prismatic_wall",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#prismatic%20wall_phb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Storm of Vengeance",
+  "id": "acid_9th_level_storm_of_vengeance",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#storm%20of%20vengeance_phb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Blade of Disaster",
+  "id": "acid_9th_level_blade_of_disaster",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#blade%20of%20disaster_tce\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Elminster's Elusion",
+  "id": "acid_2nd_level_elminsters_elusion",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#elminster's%20elusion_frhof\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Elemental Exhalation",
+  "id": "acid_3rd_level_elemental_exhalation",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#elemental%20exhalation_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Primordial Power",
+  "id": "acid_4th_level_primordial_power",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#primordial%20power_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Magic Mirror",
+  "id": "acid_5th_level_magic_mirror",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#magic%20mirror_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Songal's Elemental Suffusion",
+  "id": "acid_5th_level_songals_elemental_suffusion",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#songal's%20elemental%20suffusion_frhof\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "acid",
+  "name": "Draconic Transformation",
+  "id": "acid_7th_level_draconic_transformation",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#draconic%20transformation_ftd\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Gust",
+  "id": "wind_cantrip_gust",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#gust_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Thunderclap",
+  "id": "wind_cantrip_thunderclap",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#thunderclap_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Air Bubble",
+  "id": "wind_2nd_level_air_bubble",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#air%20bubble_aag\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Fog Cloud",
+  "id": "wind_1st_level_fog_cloud",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fog%20cloud_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_FogCloud"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Feather Fall",
+  "id": "wind_1st_level_feather_fall",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#feather%20fall_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_FeatherFall"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Jump",
+  "id": "wind_1st_level_jump",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#jump_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Jump"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Thunderwave",
+  "id": "wind_1st_level_thunderwave",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#thunderwave_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Zone_Thunderwave"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Warding Wind",
+  "id": "wind_1st_level_warding_wind",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#warding%20wind_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Misty Step",
+  "id": "wind_2nd_level_misty_step",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#misty%20step_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_MistyStep"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Dust Devil",
+  "id": "wind_2nd_level_dust_devil",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#dust%20devil_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Gust of Wind",
+  "id": "wind_2nd_level_gust_of_wind",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#gust%20of%20wind_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Zone_GustOfWind"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Shatter",
+  "id": "wind_2nd_level_shatter",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#shatter_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Shatter"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Silence",
+  "id": "wind_2nd_level_silence",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#silence_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Silence"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Fly",
+  "id": "wind_3rd_level_fly",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fly_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Fly"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Gaseous Form",
+  "id": "wind_3rd_level_gaseous_form",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#gaseous%20form_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_GaseousForm"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Stinking Cloud",
+  "id": "wind_3rd_level_stinking_cloud",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#stinking%20cloud_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_StinkingCloud"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Wind Wall",
+  "id": "wind_3rd_level_wind_wall",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wind%20wall_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Haste",
+  "id": "wind_3rd_level_haste",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#haste_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Haste"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Cloudkill",
+  "id": "wind_5th_level_cloudkill",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#cloudkill_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Cloudkill"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Cone of Cold",
+  "id": "wind_5th_level_cone_of_cold",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#cone%20of%20cold_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Zone_ConeOfCold"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Control Winds",
+  "id": "wind_5th_level_control_winds",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#control%20winds_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Investiture of Wind",
+  "id": "wind_6th_level_investiture_of_wind",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#investiture%20of%20wind_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Otiluke's Freezing Sphere",
+  "id": "wind_6th_level_otilukes_freezing_sphere",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#otiluke's%20freezing%20sphere_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Wind Walk",
+  "id": "wind_6th_level_wind_walk",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wind%20walk_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_WindWalk"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Etherealness",
+  "id": "wind_7th_level_etherealness",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#etherealness_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Reverse Gravity",
+  "id": "wind_7th_level_reverse_gravity",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#reverse%20gravity_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Whirlwind",
+  "id": "wind_7th_level_whirlwind",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#whirlwind_xge\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_Whirlwind"
+  ]
+ },
+ {
+  "essence": "air",
+  "name": "Incendiary Cloud",
+  "id": "wind_8th_level_incendiary_cloud",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#incendiary%20cloud_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Control Weather",
+  "id": "wind_8th_level_control_weather",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#control%20weather_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Storm of Vengeance",
+  "id": "wind_9th_level_storm_of_vengeance",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#storm%20of%20vengeance_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Freedom of the Winds",
+  "id": "wind_3rd_level_freedom_of_the_winds",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#freedom%20of%20the%20winds_tdcsr\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "air",
+  "name": "Mass Levitate",
+  "id": "wind_5th_level_mass_levitate",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#mass%20levitate_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Magic Stone",
+  "id": "earth_cantrip_magic_stone",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#magic%20stone_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Mold Earth",
+  "id": "earth_cantrip_mold_earth",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#mold%20earth_xge\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Earth Tremor",
+  "id": "earth_1st_level_earth_tremor",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#earth%20tremor_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Earthbind",
+  "id": "earth_2nd_level_earthbind",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#earthbind_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Maximilian's Earthen Grasp",
+  "id": "earth_2nd_level_maximilians_earthen_grasp",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#maximilian's%20earthen%20grasp_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Erupting Earth",
+  "id": "earth_3rd_level_erupting_earth",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#erupting%20earth_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Wall of Sand",
+  "id": "earth_3rd_level_wall_of_sand",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20sand_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Meld into Stone",
+  "id": "earth_3rd_level_meld_into_stone",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#meld%20into%20stone_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Stone Shape",
+  "id": "earth_4th_level_stone_shape",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#stone%20shape_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Stoneskin",
+  "id": "earth_4th_level_stoneskin",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#stoneskin_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Stoneskin"
+  ]
+ },
+ {
+  "essence": "earth",
+  "name": "Transmute Rock",
+  "id": "earth_5th_level_transmute_rock",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#transmute%20rock_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Wall of Stone",
+  "id": "earth_5th_level_wall_of_stone",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20stone_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Wall_WallOfStone"
+  ]
+ },
+ {
+  "essence": "earth",
+  "name": "Destructive Wave",
+  "id": "earth_5th_level_destructive_wave",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#destructive%20wave_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_DestructiveWave"
+  ]
+ },
+ {
+  "essence": "earth",
+  "name": "Bones of the Earth",
+  "id": "earth_6th_level_bones_of_the_earth",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#bones%20of%20the%20earth_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Flesh to Stone",
+  "id": "earth_6th_level_flesh_to_stone",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#flesh%20to%20stone_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_FleshToStone"
+  ]
+ },
+ {
+  "essence": "earth",
+  "name": "Investiture of Stone",
+  "id": "earth_6th_level_investiture_of_stone",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#investiture%20of%20stone_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Move Earth",
+  "id": "earth_6th_level_move_earth",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#move%20earth_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Reverse Gravity",
+  "id": "earth_7th_level_reverse_gravity",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#reverse%20gravity_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Earthquake",
+  "id": "earth_8th_level_earthquake",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#earthquake_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Meteor Swarm",
+  "id": "earth_9th_level_meteor_swarm",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#meteor%20swarm_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Imprisonment",
+  "id": "earth_9th_level_imprisonment",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#imprisonment_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Tremor",
+  "id": "earth_1st_level_tremor",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#tremor_grimhollowpg24\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "earth",
+  "name": "Earth Worm",
+  "id": "earth_6th_level_earth_worm",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#earth%20worm_grimhollowpg24\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Control Flames",
+  "id": "fire_cantrip_control_flames",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#control%20flames_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Create Bonfire",
+  "id": "fire_cantrip_create_bonfire",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#create%20bonfire_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Fire Bolt",
+  "id": "fire_cantrip_fire_bolt",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#fire%20bolt_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_FireBolt"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Green-Flame Blade",
+  "id": "fire_cantrip_green_flame_blade",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#green-flame%20blade_tce\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Produce Flame",
+  "id": "fire_cantrip_produce_flame",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#produce%20flame_xphb\n\n---\n\n## Spells",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_ProduceFlame"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Burning Hands",
+  "id": "fire_1st_level_burning_hands",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#burning%20hands_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Zone_BurningHands"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Hellish Rebuke",
+  "id": "fire_1st_level_hellish_rebuke",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#hellish%20rebuke_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_HellishRebuke"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Aganazzar's Scorcher",
+  "id": "fire_2nd_level_aganazzars_scorcher",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#aganazzar's%20scorcher_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Continual Flame",
+  "id": "fire_2nd_level_continual_flame",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#continual%20flame_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Flame Blade",
+  "id": "fire_2nd_level_flame_blade",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#flame%20blade_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_FlameBlade"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Flaming Sphere",
+  "id": "fire_2nd_level_flaming_sphere",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#flaming%20sphere_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_FlamingSphere"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Scorching Ray",
+  "id": "fire_2nd_level_scorching_ray",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#scorching%20ray_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_ScorchingRay"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Fireball",
+  "id": "fire_3rd_level_fireball",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fireball_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_Fireball"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Flame Arrows",
+  "id": "fire_3rd_level_flame_arrows",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#flame%20arrows_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Fire Shield",
+  "id": "fire_4th_level_fire_shield",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fire%20shield_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_FireShield"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Wall of Fire",
+  "id": "fire_4th_level_wall_of_fire",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20fire_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Wall_WallOfFire"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Flame Strike",
+  "id": "fire_5th_level_flame_strike",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#flame%20strike_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_FlameStrike"
+  ]
+ },
+ {
+  "essence": "fire",
+  "name": "Immolation",
+  "id": "fire_5th_level_immolation",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#immolation_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Investiture of Flame",
+  "id": "fire_6th_level_investiture_of_flame",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#investiture%20of%20flame_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Delayed Blast Fireball",
+  "id": "fire_7th_level_delayed_blast_fireball",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#delayed%20blast%20fireball_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Fire Storm",
+  "id": "fire_7th_level_fire_storm",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fire%20storm_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Incendiary Cloud",
+  "id": "fire_8th_level_incendiary_cloud",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#incendiary%20cloud_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Meteor Swarm",
+  "id": "fire_9th_level_meteor_swarm",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#meteor%20swarm_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Spellfire Flare",
+  "id": "fire_1st_level_spellfire_flare",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#spellfire%20flare_frhof\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Ember Belly",
+  "id": "fire_2nd_level_ember_belly",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ember%20belly_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Ashardalon's Stride",
+  "id": "fire_3rd_level_ashardalons_stride",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ashardalon's%20stride_ftd\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "fire",
+  "name": "Spellfire Storm",
+  "id": "fire_4th_level_spellfire_storm",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#spellfire%20storm_frhof",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "lightning",
+  "name": "Lightning Lure",
+  "id": "lightning_cantrip_lightning_lure",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#lightning%20lure_tce\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "lightning",
+  "name": "Shocking Grasp",
+  "id": "lightning_cantrip_shocking_grasp",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#shocking%20grasp_xphb\n\n---\n\n## Spells",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ShockingGrasp"
+  ]
+ },
+ {
+  "essence": "lightning",
+  "name": "Witch Bolt",
+  "id": "lightning_1st_level_witch_bolt",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#witch%20bolt_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_WitchBolt"
+  ]
+ },
+ {
+  "essence": "lightning",
+  "name": "Call Lightning",
+  "id": "lightning_3rd_level_call_lightning",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#call%20lightning_phb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_CallLightning"
+  ]
+ },
+ {
+  "essence": "lightning",
+  "name": "Lightning Arrow",
+  "id": "lightning_3rd_level_lightning_arrow",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#lightning%20arrow_phb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_LightningArrow"
+  ]
+ },
+ {
+  "essence": "lightning",
+  "name": "Lightning Bolt",
+  "id": "lightning_3rd_level_lightning_bolt",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#lightning%20bolt_phb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Zone_LightningBolt"
+  ]
+ },
+ {
+  "essence": "lightning",
+  "name": "Storm Sphere",
+  "id": "lightning_4th_level_storm_sphere",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#storm%20sphere_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "lightning",
+  "name": "Chain Lightning",
+  "id": "lightning_6th_level_chain_lightning",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#chain%20lightning_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_ChainLightning"
+  ]
+ },
+ {
+  "essence": "lightning",
+  "name": "Teleport",
+  "id": "lightning_7th_level_teleport",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#teleport_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "lightning",
+  "name": "Control Weather",
+  "id": "lightning_8th_level_control_weather",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#control%20weather_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "lightning",
+  "name": "Storm of Vengeance",
+  "id": "lightning_9th_level_storm_of_vengeance",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#storm%20of%20vengeance_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "lightning",
+  "name": "Ride the Lightning",
+  "id": "lightning_5th_level_ride_the_lightning",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ride%20the%20lightning_tdcsr\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Blade Ward",
+  "id": "metal_cantrip_blade_ward",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#blade%20ward_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_BladeWard"
+  ]
+ },
+ {
+  "essence": "metal",
+  "name": "Sword Burst",
+  "id": "metal_cantrip_sword_burst",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#sword%20burst_tce\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Cloud of Daggers",
+  "id": "metal_2nd_level_cloud_of_daggers",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#cloud%20of%20daggers_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_CloudOfDaggers"
+  ]
+ },
+ {
+  "essence": "metal",
+  "name": "Heat Metal",
+  "id": "metal_2nd_level_heat_metal",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#heat%20metal_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_HeatMetal"
+  ]
+ },
+ {
+  "essence": "metal",
+  "name": "Fabricate",
+  "id": "metal_4th_level_fabricate",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fabricate_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Animate Objects",
+  "id": "metal_5th_level_animate_objects",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#animate%20objects_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Blade Barrier",
+  "id": "metal_6th_level_blade_barrier",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#blade%20barrier_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Wall_BladeBarrier"
+  ]
+ },
+ {
+  "essence": "metal",
+  "name": "Mordenkainen's Sword",
+  "id": "metal_7th_level_mordenkainens_sword",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#mordenkainen's%20sword_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Foresight",
+  "id": "metal_9th_level_foresight",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#foresight_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Arcane Aegis",
+  "id": "metal_1st_level_arcane_aegis",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#arcane%20aegis_grimhollowpg24\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Enspelled Armament",
+  "id": "metal_3rd_level_enspelled_armament",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#enspelled%20armament_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Pillar of Force",
+  "id": "metal_5th_level_pillar_of_force",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#pillar%20of%20force_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "metal",
+  "name": "Pogmo's Pot",
+  "id": "metal_9th_level_pogmos_pot",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#pogmo's%20pot_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Poison Spray",
+  "id": "poison_cantrip_poison_spray",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#poison%20spray_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_PoisonSpray"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Infestation",
+  "id": "poison_cantrip_infestation",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "`\n\nhttps://5e.tools/spells.html#infestation_xge\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Ray of Sickness",
+  "id": "poison_1st_level_ray_of_sickness",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ray%20of%20sickness_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_RayOfSickness"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Purify Food and Drink",
+  "id": "poison_1st_level_purify_food_and_drink",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#purify%20food%20and%20drink_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Enlarge/Reduce",
+  "id": "poison_2nd_level_enlarge_reduce",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#enlarge%2freduce_xphb\n\n---",
+  "status": "NPC_ONLY",
+  "bg3": [
+   "Target_Enlarge"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Protection from Poison",
+  "id": "poison_2nd_level_protection_from_poison",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#protection%20from%20poison_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ProtectionFromPoison"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Bestow Curse",
+  "id": "poison_3rd_level_bestow_curse",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#bestow%20curse_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_BestowCurse"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Cloudkill",
+  "id": "poison_5th_level_cloudkill",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#cloudkill_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Cloudkill"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Contagion",
+  "id": "poison_5th_level_contagion",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#contagion_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Contagion"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Circle of Death",
+  "id": "poison_6th_level_circle_of_death",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#circle%20of%20death_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_CircleOfDeath"
+  ]
+ },
+ {
+  "essence": "poison",
+  "name": "Prismatic Spray",
+  "id": "poison_7th_level_prismatic_spray",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#prismatic%20spray_phb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Prismatic Wall",
+  "id": "poison_9th_level_prismatic_wall",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#prismatic%20wall_phb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Swallow Magic",
+  "id": "poison_2nd_level_swallow_magic",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#swallow%20magic_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Sylun\u00e9's Viper",
+  "id": "poison_3rd_level_sylunes_viper",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#sylun\u00e9's%20viper_frhof\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "poison",
+  "name": "Investiture of Venom",
+  "id": "poison_6th_level_investiture_of_venom",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#investiture%20of%20venom_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Frostbite",
+  "id": "water_cantrip_frostbite",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#frostbite_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Ray of Frost",
+  "id": "water_cantrip_ray_of_frost",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#ray%20of%20frost_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_RayOfFrost"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Shape Water",
+  "id": "water_cantrip_shape_water",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#shape%20water_xge\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Create or Destroy Water",
+  "id": "water_1st_level_create_or_destroy_water",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#create%20or%20destroy%20water_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_CreateDestroyWater"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Detect Poison and Disease",
+  "id": "water_1st_level_detect_poison_and_disease",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#detect%20poison%20and%20disease_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Fog Cloud",
+  "id": "water_1st_level_fog_cloud",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#fog%20cloud_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_FogCloud"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Grease",
+  "id": "water_1st_level_grease",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#grease_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Grease"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Ice Knife",
+  "id": "water_1st_level_ice_knife",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ice%20knife_xge\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Projectile_IceKnife"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Protection from Poison",
+  "id": "water_2nd_level_protection_from_poison",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#protection%20from%20poison_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ProtectionFromPoison"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Snilloc's Snowball Swarm",
+  "id": "water_2nd_level_snillocs_snowball_swarm",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#snilloc's%20snowball%20swarm_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Misty Step",
+  "id": "water_2nd_level_misty_step",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#misty%20step_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_MistyStep"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Sleet Storm",
+  "id": "water_3rd_level_sleet_storm",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#sleet%20storm_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_SleetStorm"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Tidal Wave",
+  "id": "water_3rd_level_tidal_wave",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#tidal%20wave_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Wall of Water",
+  "id": "water_3rd_level_wall_of_water",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20water_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Water Breathing",
+  "id": "water_3rd_level_water_breathing",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#water%20breathing_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Water Walk",
+  "id": "water_3rd_level_water_walk",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#water%20walk_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Control Water",
+  "id": "water_4th_level_control_water",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#control%20water_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Ice Storm",
+  "id": "water_4th_level_ice_storm",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ice%20storm_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_IceStorm"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Vitriolic Sphere",
+  "id": "water_4th_level_vitriolic_sphere",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#vitriolic%20sphere_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Watery Sphere",
+  "id": "water_4th_level_watery_sphere",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#watery%20sphere_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Maelstrom",
+  "id": "water_5th_level_maelstrom",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#maelstrom_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Investiture of Ice",
+  "id": "water_6th_level_investiture_of_ice",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#investiture%20of%20ice_xge\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Wall of Ice",
+  "id": "water_6th_level_wall_of_ice",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20ice_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Wall_WallOfIce"
+  ]
+ },
+ {
+  "essence": "water",
+  "name": "Tsunami",
+  "id": "water_8th_level_tsunami",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#tsunami_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Time Stop",
+  "id": "water_9th_level_time_stop",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#time%20stop_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Bubble Lift",
+  "id": "water_1st_level_bubble_lift",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#bubble%20lift_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Frost Fingers",
+  "id": "water_1st_level_frost_fingers",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#frost%20fingers_idrotf\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Water Bullet",
+  "id": "water_1st_level_water_bullet",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#water%20bullet_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Whelm Weapon",
+  "id": "water_1st_level_whelm_weapon",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#whelm%20weapon_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Rime's Binding Ice",
+  "id": "water_2nd_level_rimes_binding_ice",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#rime's%20binding%20ice_ftd\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Conjure Ocean",
+  "id": "water_3rd_level_conjure_ocean",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#conjure%20ocean_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Freedom of the Waves",
+  "id": "water_3rd_level_freedom_of_the_waves",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#freedom%20of%20the%20waves_tdcsr\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Alustriel's Mooncloak",
+  "id": "water_5th_level_alustriels_mooncloak",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#alustriel's%20mooncloak_frhof\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "water",
+  "name": "Crustacean Form",
+  "id": "water_6th_level_crustacean_form",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#crustacean%20form_obojimatallgrass",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Thorn Whip",
+  "id": "wood_cantrip_thorn_whip",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#thorn%20whip_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ThornWhip"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Shillelagh",
+  "id": "wood_cantrip_shillelagh",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#shillelagh_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_Shillelagh"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Root Grab",
+  "id": "wood_cantrip_root_grab",
+  "tier": "cantrip",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": false,
+  "isCantrip": true,
+  "body": "https://5e.tools/spells.html#root%20grab_obojimatallgrass\n\n---\n\n## Spells",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Ensnaring Strike",
+  "id": "wood_1st_level_ensnaring_strike",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#ensnaring%20strike_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_EnsnaringStrike"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Purify Food and Drink",
+  "id": "wood_1st_level_purify_food_and_drink",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#purify%20food%20and%20drink_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Animal Friendship",
+  "id": "wood_1st_level_animal_friendship",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#animal%20friendship_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_AnimalFriendship"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Entangle",
+  "id": "wood_1st_level_entangle",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#entangle_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Entangle"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Find Familiar",
+  "id": "wood_1st_level_find_familiar",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#find%20familiar_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_FindFamiliar"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Goodberry",
+  "id": "wood_1st_level_goodberry",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#goodberry_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Goodberry"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Speak with Animals",
+  "id": "wood_1st_level_speak_with_animals",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#speak%20with%20animals_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_SpeakWithAnimals"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Unseen Servant",
+  "id": "wood_1st_level_unseen_servant",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#unseen%20servant_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Pass without Trace",
+  "id": "wood_2nd_level_pass_without_trace",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#pass%20without%20trace_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_PassWithoutTrace"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Lesser Restoration",
+  "id": "wood_2nd_level_lesser_restoration",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#lesser%20restoration_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_LesserRestoration"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Animal Friendship",
+  "id": "wood_2nd_level_animal_friendship_repeat",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#animal%20friendship_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_AnimalFriendship"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Barkskin",
+  "id": "wood_2nd_level_barkskin",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#barkskin_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Barkskin"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Locate Animals or Plants",
+  "id": "wood_2nd_level_locate_animals_or_plants",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#locate%20animals%20or%20plants_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Spike Growth",
+  "id": "wood_2nd_level_spike_growth",
+  "tier": "2nd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#spike%20growth_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_SpikeGrowth"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Leomund's Tiny Hut",
+  "id": "wood_3rd_level_leomunds_tiny_hut",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#leomund's%20tiny%20hut_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Leomund's Tiny Hut",
+  "id": "wood_3rd_level_leomunds_tiny_hut_repeat",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#leomund's%20tiny%20hut_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Phantom Steed",
+  "id": "wood_3rd_level_phantom_steed",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#phantom%20steed_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Plant Growth",
+  "id": "wood_3rd_level_plant_growth",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#plant%20growth_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_PlantGrowth"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Speak with Dead",
+  "id": "wood_3rd_level_speak_with_dead",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#speak%20with%20dead_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_SpeakWithDead"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Speak with Plants",
+  "id": "wood_3rd_level_speak_with_plants",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#speak%20with%20plants_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Spirit Guardians",
+  "id": "wood_3rd_level_spirit_guardians",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#spirit%20guardians_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Shout_SpiritGuardians"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Conjure Woodland Beings",
+  "id": "wood_4th_level_conjure_woodland_beings",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#conjure%20woodland%20beings_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ConjureWoodlandBeings"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Dominate Beast",
+  "id": "wood_4th_level_dominate_beast",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#dominate%20beast_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_DominateBeast"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Grasping Vine",
+  "id": "wood_4th_level_grasping_vine",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#grasping%20vine_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_GraspingVine"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Giant Insect",
+  "id": "wood_4th_level_giant_insect",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#giant%20insect_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Guardian of Faith",
+  "id": "wood_4th_level_guardian_of_faith",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#guardian%20of%20faith_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_GuardianOfFaith"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Locate Creature",
+  "id": "wood_4th_level_locate_creature",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#locate%20creature_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Conjure Minor Elementals",
+  "id": "wood_4th_level_conjure_minor_elementals",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#conjure%20minor%20elementals_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Antilife Shell",
+  "id": "wood_5th_level_antilife_shell",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#antilife%20shell_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Awaken",
+  "id": "wood_5th_level_awaken",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#awaken_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Commune with Nature",
+  "id": "wood_5th_level_commune_with_nature",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#commune%20with%20nature_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Contagion",
+  "id": "wood_5th_level_contagion",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#contagion_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_Contagion"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Creation",
+  "id": "wood_5th_level_creation",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#creation_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Insect Plague",
+  "id": "wood_5th_level_insect_plague",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#insect%20plague_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_InsectPlague"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Tree Stride",
+  "id": "wood_5th_level_tree_stride",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#tree%20stride_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Conjure Elemental",
+  "id": "wood_5th_level_conjure_elemental",
+  "tier": "5th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#conjure%20elemental_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_ConjureElemental_Container"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Planar Ally",
+  "id": "wood_6th_level_planar_ally",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#planar%20ally_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Target_PlanarAlly_Container"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Wall of Thorns",
+  "id": "wood_6th_level_wall_of_thorns",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#wall%20of%20thorns_xphb\n\n---",
+  "status": "PLAYER",
+  "bg3": [
+   "Wall_WallOfThorns"
+  ]
+ },
+ {
+  "essence": "wood",
+  "name": "Transport via Plants",
+  "id": "wood_6th_level_transport_via_plants",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#transport%20via%20plants_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Conjure Celestial",
+  "id": "wood_7th_level_conjure_celestial",
+  "tier": "7th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#conjure%20celestial_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Animal Shapes",
+  "id": "wood_8th_level_animal_shapes",
+  "tier": "8th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#animal%20shapes_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Shapechange",
+  "id": "wood_9th_level_shapechange",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#shapechange_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "True Polymorph",
+  "id": "wood_9th_level_true_polymorph",
+  "tier": "9th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#true%20polymorph_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Forest Guard",
+  "id": "wood_1st_level_forest_guard",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#forest%20guard_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Sprout Foliage",
+  "id": "wood_1st_level_sprout_foliage",
+  "tier": "1st",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#sprout%20foliage_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Thorn Armor",
+  "id": "wood_3rd_level_thorn_armor",
+  "tier": "3rd",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#thorn%20armor_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Summon Plant",
+  "id": "wood_4th_level_summon_plant",
+  "tier": "4th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#summon%20plant_obojimatallgrass\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ },
+ {
+  "essence": "wood",
+  "name": "Tree",
+  "id": "wood_6th_level_tree",
+  "tier": "6th",
+  "isActive": false,
+  "isPassive": false,
+  "isSpell": true,
+  "isCantrip": false,
+  "body": "https://5e.tools/spells.html#tree_xphb\n\n---",
+  "status": "MISSING",
+  "bg3": []
+ }
+]
